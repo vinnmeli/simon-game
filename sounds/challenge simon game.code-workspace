@@ -1,0 +1,13 @@
+{
+  "folders": [
+	{
+		"path": "../../challenge simon game"
+	},
+	{
+		"path": ".."
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "challenge simon game"
+  }
+}
